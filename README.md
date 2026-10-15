@@ -3,7 +3,7 @@
 Panel web sencillo para manejar OpenOutreach: ver estado, listar leads, exportar CSV,
 lanzar búsquedas y envíos, y ver el log en vivo.
 
-Este repositorio es **independiente** del fork de OpenOutreach (`../repo`) y de la
+Este repositorio es **independiente** del fork de OpenOutreach (`../OpenOutreach`) y de la
 configuración Docker (`../docker`).
 
 ## Stack previsto
